@@ -7,7 +7,7 @@ Welcome to **AI Tinkerers Luxembourg**! Whether you want to collaborate, share a
 | Name | Contact |
 | --- | --- |
 | **Aleksandar Gjorgjiev** | [Aleksandar@pen-tester.net](mailto:Aleksandar@pen-tester.net) |
-| **Mark Tenzer** | Email to be announced (TBD) |
+| **Mark Tenzer** | [tinkerers@integrated.lu](mailto:tinkerers@integrated.lu) |
 
 ## How to Get in Touch
 
