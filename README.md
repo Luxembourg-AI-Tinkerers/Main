@@ -69,7 +69,7 @@ Have a working AI experiment, prototype, or product? Bring the technical story: 
 Use this repository to propose community resources, suggest technical topics, share useful open-source projects, and improve documentation. Open an issue to discuss an idea or a pull request for a concrete improvement.
 
 **Help build the community**  
-Interested in supporting a session, volunteering, or collaborating? Contact the local organizers using the official [chapter page](https://luxembourg.aitinkerers.org/).
+Interested in supporting a session, volunteering, or collaborating? Contact the local organizers via our [contact page](CONTACT.md).
 
 ## 💡 Suggested demo format
 
@@ -92,13 +92,30 @@ We welcome contributions that make the local AI builder community more useful.
 - **Suggest:** Open an issue for an idea, session topic, or community resource.
 - **Collaborate:** Discuss your proposal respectfully before making large changes.
 
-For pull requests, briefly explain what changed and why it helps other builders. Only submit content and code you have permission to share; never include API keys, credentials, private datasets, or someone else's confidential material.
+Please review our **[Contribution Guide](CONTRIBUTING.md)** before submitting a pull request. Briefly explain what changed and why it helps other builders. Only submit content and code you have permission to share; never include API keys, credentials, private datasets, or someone else's confidential material.
 
-## 🛡️ Community standards
+## 🛡️ Community standards & project documents
 
 We aim for technical curiosity, constructive feedback, respect, and openness about results and limitations. Treat everyone professionally, credit contributors, and avoid unsolicited selling or recruiting pitches at community events.
 
-Please read and follow the official **[AI Tinkerers Code of Conduct](https://aitinkerers.org/p/ai-tinkerers-code-of-conduct)**.
+| Document | What you'll find |
+| --- | --- |
+| 📜 **[Code of Conduct](CODE_OF_CONDUCT.md)** | Expected behavior, community values, and how to report concerns |
+| 🛡️ **[Security Policy](SECURITY.md)** | Responsible vulnerability disclosure and secure reporting |
+| 🤝 **[Contribution Guide](CONTRIBUTING.md)** | How to propose ideas, submit changes, and collaborate |
+| ⚖️ **[MIT License](LICENSE.md)** | Terms for reuse and distribution of this repository's content |
+| 📬 **[Contact & Maintainers](CONTACT.md)** | Who maintains the community and how to get in touch |
+
+Our local Code of Conduct complements the **[global AI Tinkerers Code of Conduct](https://aitinkerers.org/p/ai-tinkerers-code-of-conduct)**. Please follow both.
+
+For security vulnerabilities, **do not post sensitive details in public issues**; use the reporting process in [SECURITY.md](SECURITY.md). Each independently maintained repository may have its own license and security policy.
+
+## 👥 Maintainers & contact
+
+- **Aleksandar Gjorgjiev** — [Aleksandar@pen-tester.net](mailto:Aleksandar@pen-tester.net)
+- **Mark Tenzer** — Contact information to be announced
+
+For community inquiries, partnerships, and collaboration opportunities, see **[CONTACT.md](CONTACT.md)**.
 
 ## 🔗 Useful links
 
@@ -107,7 +124,7 @@ Please read and follow the official **[AI Tinkerers Code of Conduct](https://ait
 | 🇱🇺 Luxembourg chapter | [luxembourg.aitinkerers.org](https://luxembourg.aitinkerers.org/) |
 | 🌍 Global AI Tinkerers | [aitinkerers.org](https://aitinkerers.org/) |
 | 🗺️ Find a chapter | [AI Tinkerers city directory](https://aitinkerers.org/ai-meetups) |
-| 📜 Code of Conduct | [Community guidelines](https://aitinkerers.org/p/ai-tinkerers-code-of-conduct) |
+| 📜 Global Code of Conduct | [AI Tinkerers community guidelines](https://aitinkerers.org/p/ai-tinkerers-code-of-conduct) |
 | ❓ About AI Tinkerers | [Frequently asked questions](https://aitinkerers.org/p/ai-tinkerers-faq) |
 
 ---
