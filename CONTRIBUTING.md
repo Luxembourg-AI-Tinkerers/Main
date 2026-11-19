@@ -2,7 +2,7 @@
 
 Thank you for helping build an open, practical, and welcoming AI community in Luxembourg! Whether you are contributing code, tutorials, documentation, demos, or ideas, your participation matters.
 
-This guide applies to contributions to the [Luxembourg AI Tinkerers `.github` repository](https://github.com/Luxembourg-AI-Tinkerers/.github). Individual projects may have additional instructions in their own repositories.
+This guide applies to contributions to the [Luxembourg AI Tinkerers `.github` repository](https://github.com/Luxembourg-AI-Tinkerers/Main). Individual projects may have additional instructions in their own repositories.
 
 ## Ways to contribute
 
